@@ -1,2 +1,1 @@
-### test
-github pageを使ってみた
+[github pages](https://hirogoe.github.io/)を使ってみた
